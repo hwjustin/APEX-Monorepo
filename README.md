@@ -1,5 +1,7 @@
 # APEX-Monorepo
 
+![APEX-402 Diagram](./APEX-402.png)
+
 This is the monorepo for APEX-402 protocol, which contains the merchant demo, client demo, and APEX-402 implementation. All three submodules are combined here for hackathon submission.
 
 ## What is APEX-402?
