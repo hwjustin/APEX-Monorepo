@@ -14,16 +14,16 @@ You can access our public demo via [link](https://client-demo-beige.vercel.app/)
 
 1. Clone the repository:
 ```bash
-$ git clone --recurse-submodules git@github.com:hwjustin/APEX-Monorepo.git
-$ cd APEX-Monorepo
+git clone --recurse-submodules git@github.com:hwjustin/APEX-Monorepo.git
+cd APEX-Monorepo
 ```
 
 2. APEX-402 Facilitator Deployment:
 
 ```bash
-$ cd APEX-402
-$ git checkout publish
-$ git pull
+cd APEX-402
+git checkout publish
+git pull
 ```
 
 ```bash
@@ -46,18 +46,18 @@ docker run -d \
 3. Client Demo Deployment:
 
 ```bash
-$ cd client-demo
-$ pnpm install
-$ pnpm dev
+cd client-demo
+pnpm install
+pnpm dev
 ```
 
 
 4. Merchant Demo Deployment:
 
 ```bash
-$ cd merchant-demo
-$ pnpm install
-$ pnpm dev
+cd merchant-demo
+pnpm install
+pnpm dev
 ```
 
 ## Acknowledgement
