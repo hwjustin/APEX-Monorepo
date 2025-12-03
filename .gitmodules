@@ -1,0 +1,9 @@
+[submodule "APEX-402"]
+	path = APEX-402
+	url = https://github.com/APEX402/APEX-402
+[submodule "merchant-demo"]
+	path = merchant-demo
+	url = https://github.com/APEX402/merchant-demo
+[submodule "client-demo"]
+	path = client-demo
+	url = https://github.com/APEX402/client-demo
